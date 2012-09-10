@@ -1,5 +1,7 @@
 package be.groept.introduction;
 
+// This is some comment
+
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
